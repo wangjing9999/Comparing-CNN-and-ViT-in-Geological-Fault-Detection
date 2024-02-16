@@ -16,3 +16,4 @@ train_Thebe.py|train Thebe
                  
                  # Comparing-CNN-and-ViT-in-Geological-Fault-Detection
 # Comparing-CNN-and-ViT-in-Geological-Fault-Detection
+# Comparing-CNN-and-ViT-in-Geological-Fault-Detection

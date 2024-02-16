@@ -1,3 +1,6 @@
+
+                 
+                 # Comparing-CNN-and-ViT-in-Geological-Fault-Detection
 Code for paper "A Comparative Study of Vision Transformer and Convolutional Neural Network Models in Fault Detection"
 
 filename|usage
@@ -13,7 +16,3 @@ warmup_schedule|warmup file
 optins.py|config file
 train_Faultseg.py|train Faultseg
 train_Thebe.py|train Thebe
-                 
-                 # Comparing-CNN-and-ViT-in-Geological-Fault-Detection
-# Comparing-CNN-and-ViT-in-Geological-Fault-Detection
-# Comparing-CNN-and-ViT-in-Geological-Fault-Detection
